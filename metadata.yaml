@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9787'
     url: http://www.gutenberg.org/2009/agents/9787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44464#Under-One-Sceptre-or-Mortimer-s-MissionThe-Story-of-the-Lord-of-the-Marches
 gutenberg_issued: '2013-12-18'
 gutenberg_type: Text
 identifiers:
